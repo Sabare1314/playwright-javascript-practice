@@ -30,7 +30,7 @@ try {
     await expect(page).toHaveURL(/inventory/);
 
     // Print success message
-    console.log('Test Passed!');
+    console.log('Test Passed!!! Login page loaded and login successful.');
 
 } catch (error) {
     // Print error message
